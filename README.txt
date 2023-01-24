@@ -1,7 +1,7 @@
 HELLO WORLD
-git push --set-upstream origin master
-hallo heimur
+git push --set-upstream origin master?
+hallo heimur?
 
-sældkjfælskdf
+sældkjfælskdf?
 
-BOB
+BOB?
